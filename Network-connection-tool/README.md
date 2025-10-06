@@ -5,3 +5,5 @@
 - you can find these at [requirements.txt](requirements.txt) file.
 #### Date
 - 2025.10.06 as YYYY.MM.DD
+#### Python version
+- Python 3.13
