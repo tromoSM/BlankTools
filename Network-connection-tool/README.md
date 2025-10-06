@@ -2,6 +2,6 @@
 ****
 - This tool gives you a notification everytime you disconnect from the internet; giving you a heads up if it automatically disconnected
 #### Dependencies
-- you can find these at [requirements.txt](Network-connection-tool/requirements.txt) file.
+- you can find these at [requirements.txt](requirements.txt) file.
 #### Date
 - 2025.10.06 as YYYY.MM.DD
