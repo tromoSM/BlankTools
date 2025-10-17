@@ -17,6 +17,7 @@ Name :
 Version : [0]:V1st
 Release-description : using pseudo-random
 Author : tromoSM
+User preferences : var(location),var(res),var(fileform),var(name)
 """     
 fileform="png"
 name="gurt"
