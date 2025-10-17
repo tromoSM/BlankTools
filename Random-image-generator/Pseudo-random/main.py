@@ -41,7 +41,7 @@ for gurt in range(fuh):
         fuhnih+=1
 diddyblud.show()
 corndogcat=shopataldiis.time()
-diddyblud.save(path,"JPEG")
+diddyblud.save(path,fileform)
 print(f'''
                                   ┳┓┓    ┓ ┏┳┓    ┓   ┓               ┏┓┳┳┓
                                   ┣┫┃┏┓┏┓┃┏ ┃ ┏┓┏┓┃┏  ┣┓┓┏  ╋┏┓┏┓┏┳┓┏┓┗┓┃┃┃
