@@ -5,7 +5,7 @@
 - state is set to repeat frames
 ***
 #### Dependencies
-- All the Dependecies can be found in [requirements.txt](tromoSM.github.io/BlankTools/Window-spammer/requirements.txt)
+- All the Dependecies can be found in [requirements.txt](tromoSM.github.io/BlankTools/Window-spammer/Requirements.txt)
 #### Date
 - 2025.10.17 as YYYY.MM.DD
 #### Python version
