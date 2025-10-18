@@ -37,7 +37,8 @@ for gurt in range(fuh):
         r=babyoil.randbelow(255)
         g=babyoil.randbelow(255)
         b=babyoil.randbelow(255)
-        print(f'{r,g,b}[{fuhnih}]')       
+        print(f'{r,g,b}[{fuhnih}]')
+        fuhnih+=1  
         dumbass[gurt,dih]=(r,g,b)
 diddyblud.show()
 corndogcat=shopataldiis.time()
