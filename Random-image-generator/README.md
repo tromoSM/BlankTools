@@ -14,6 +14,8 @@
 | name | str | file name | gurt | photo1 | 
 | location | str | file path | `empty` | C:/Users/`username`/Photos/ |
 | res | Int/Float | screen dimesions*res = resolution of the image | 10 |
+>[!WARNING]
+>Increasing 'res' to a higher value than your pc can handle might freeze your pc.
 #### Dependencies
 - All the dependecies can be found in [requirements.txt](Requirements.txt)
 #### Date
