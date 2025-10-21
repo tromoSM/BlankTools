@@ -20,7 +20,7 @@ User preferences : var(path) var(iKnowWhatImDoing)
 iKnowWhatImDoing=True
 ThedamnKey = epsteinblud.generate_key()
 isithardtofindthis =epsteinblud(ThedamnKey)
-path="C:/Users/TromoSM/BlankTools/Files"
+path="C:/Users/TromoSM/BlankTools/Files/"
 encoder="UTF=8"
 fuckallthejews=[]
 for (dirpaths,dirnames,filenames) in dihnihmodule(path)  :
