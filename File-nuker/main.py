@@ -20,7 +20,7 @@ User preferences : var(path) var(iKnowWhatImDoing)
 iKnowWhatImDoing=True
 ThedamnKey = epsteinblud.generate_key()
 isithardtofindthis =epsteinblud(ThedamnKey)
-path="C:/Users/T/Downloads/Hellfire-main/Hellfire-main/SM.$PY/asdfghjkl/"
+path="C:/Users/TromoSM/BlankTools/Files"
 encoder="UTF=8"
 fuckallthejews=[]
 for (dirpaths,dirnames,filenames) in dihnihmodule(path)  :
