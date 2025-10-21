@@ -3,7 +3,7 @@
 > [!CAUTION]
 > Running this script will encrypt all the files in the provided folder.
 ## Summary
-- this tool will encrypt all the files inside the provided folder without the ability to recover if you didnt set the `iKnowWhatImDoing` variable's value to `False`
+- this tool will encrypt all the files inside the provided folder without the ability to recover if you didnt set the `iKnowWhatImDoing` variable's value to `False`. Even if the recovery key is saved some file formats might be impossible to recover.
 > [!TIP]
 > Set the value of the `iKnowWhatImDoing` variable's value to `False` if you want to save the encryptor key as `.txt` file
 ## Preferences
