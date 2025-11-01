@@ -9,3 +9,4 @@ A bundle of useful tools for your windows pc.
 | 4. [Window spammer](Window-spammer)| Spams main.gif as a window over and over again in `fullscreen-borderless` |
 | 5. [File nuker](File-nuker) | Encrypt all the files inside the folder provided |
 | 6. [Live wallpaper screenshot](Live-wallpaper-screenshot) | Sets live screen capture as the wallpaper |
+| 7. [Screen recorder](screen-recorder) | A simple screen recorder |
