@@ -10,7 +10,7 @@
 | Variable name | Variable types | Description | Default | Example| Additional info |
 |----------|---------|----|---------------------------|------|-|
 | iKnowWhatImDoing | bool | Save decryptor key as a text | True | False | False if you want to save the key | 
-| path | str | path for directory | C:/Users/TromoSM/BlankTools/Files/ | C:/Users/TromoSM/Documents/ | use `/` instead of `\`, there must be a `/` at the path |
+| path | str | path for directory | C:/Users/TromoSM/BlankTools/Files/ | C:/Users/TromoSM/Documents/ | use `/` instead of `\`, there must be a `/` at the end of the path |
 
 ## DISCALIMER 
 #### Do not use this if you dont know what you're doing. Do not use this tool if you dont have the owner's permission. We are not promoting nor endorsing usage for this tool for usage. this is for educational purposes only.
