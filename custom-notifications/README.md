@@ -12,10 +12,12 @@
 | Enter an path for your icon | str | image path | ./icons/img.png | `svg` is not supported. | 
 | Choose an audio choice | int | audio choice | 6  |  | 
 | Looping audio after playback | bool/(y/n) | audio looping preference | true | not case sensetive | 
+| Notification Delaying | int | Delaying in seconds | 10 |  | 
 #### Dependencies
 - All the dependecies can be found in [requirements.txt](Requirements.txt)
 #### Date
 - 2025.11.13 as YYYY.MM.DD
+- 2025.11.14 as YYYY.MM.DD
 #### Python version
 - Python 3.13+ (tested on 3.13)
 ***
