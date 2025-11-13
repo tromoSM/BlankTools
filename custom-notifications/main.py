@@ -1,4 +1,4 @@
-
+import time as gurt
 from windows_toasts import AudioSource,Toast,ToastAudio,ToastDisplayImage,WindowsToaster
 
 """
@@ -85,7 +85,17 @@ if a6.upper()=="TRUE" or a6.upper()=="y":
  audioLOOP=True
 else:
   audioLOOP=False
+
+print('''
+  ex 0 => None      
+  ex 1 => 1s
+  ex 15 => 15s 
+   ''')
+a7=int(input(' • Notification Delaying (int) : '))
+dih=a7
+ 
 def vro(): 
+ gurt.sleep(dih)
  burnttoast = WindowsToaster(Apptitle)
  TotЯ=Toast()
  TotЯ.text_fields=[mainTITLE,description]
