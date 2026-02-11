@@ -6,6 +6,8 @@
 #### Do not set this as a startup app. Running this tool might make you get locked out of your pc. Do not use this tool if you don't know what you're doing.
 ## DISCALIMER 
 #### Do not use this if you dont know what you're doing. Do not use this tool if you dont have the owner's permission. We are not promoting nor endorsing usage for this tool for usage. this is for educational purposes only.
+## Console mode
+#### change the file extension from `.pyw` to `.py` to use the script with a console.
 ## EXCLUSIVE EDITION
 > [!CAUTION]
 > this edition will move itself to `shell:startup`. meaning this will run everytime the user power on the pc.
