@@ -10,5 +10,7 @@ A bundle of useful tools for your windows pc.
 | 5. [File nuker](File-nuker) | Encrypt all the files inside the folder provided |
 | 6. [Live wallpaper screenshot](Live-wallpaper-screenshot) | Sets live screen capture as the wallpaper |
 | 7. [Screen recorder](screen-recorder) | A simple screen recorder |
+| 8. [Custom notifications](custom-notifications) | Deliver custom notification in windows 10+ |
+| 9. [Hide files](hide-files) | hides or unhides the files picked by the user in the file picker dialog |
 
 #### more coming soon
