@@ -14,3 +14,5 @@ A bundle of useful tools for your windows pc.
 | 9. [Hide files](hide-files) | hides or unhides the files picked by the user in the file picker dialog |
 
 #### more coming soon
+
+##### [send feedback or request features](https://tromosm.ct.ws/?feedback=true)
