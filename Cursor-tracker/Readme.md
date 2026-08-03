@@ -4,6 +4,7 @@
 - Track your cursors position and draw it into an image
 
 > [!TIP]
+> Press `esc` to exit   
 > Scroll up to make the drawing pencil larger and scroll down to make it smaller   
 > What colors mean,   
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`red`=fast   
